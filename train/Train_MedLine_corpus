@@ -1,0 +1,232 @@
+cobalt	iron		MECHANISM
+iron	cobalt		MECHANISM
+iron	cobalt		MECHANISM
+Fe	cobalt		MECHANISM
+iron	cobalt		MECHANISM
+Etofibrate	heparin		EFFECT
+estradiol	noradrenaline		EFFECT
+estradiol	noradrenaline		EFFECT
+theophylline	phenytoin		MECHANISM
+theophylline	phenytoin		MECHANISM
+phenytoin	theophylline		EFFECT
+verapamil	bombesin		EFFECT
+Verapamil	bombesin		EFFECT
+Rifampin	warfarin		INT
+warfarin	rifampin		INT
+Rifampin	warfarin		MECHANISM
+rifampin	warfarin		MECHANISM
+rifampin	warfarin		MECHANISM
+rifampin	warfarin		MECHANISM
+rifampin	warfarin		EFFECT
+Fluvoxamine	tolbutamide		MECHANISM
+fluvoxamine	tolbutamide		MECHANISM
+Cytochalasin D	carbachol		EFFECT
+Cytochalasin D	carbachol		EFFECT
+antiretroviral drugs	antineoplastic drugs		ADVISE
+Buforin II	azithromycin		EFFECT
+Buforin II	minocycline		EFFECT
+Physostigmine	alcohol		EFFECT
+Physostigmine	alcohol		EFFECT
+Loperamide	dmPGE2		EFFECT
+morphine	dmPGE2		EFFECT
+N-methyllevallorphan	loperamide		EFFECT
+N-methyllevallorphan	morphine		EFFECT
+estradiol	endotoxin		EFFECT
+estradiol	endotoxin		MECHANISM
+estradiol	endotoxin		EFFECT
+Azithromycin	zidovudine		MECHANISM
+Azithromycin	zidovudine		MECHANISM
+carbamazepine	tricyclic antidepressant		EFFECT
+carbamazepine	tricyclic antidepressants		ADVISE
+Vitamin D3	arsenate		MECHANISM
+neomycin	ACTH		EFFECT
+pentazocine	tripelennamine		EFFECT
+tripelennamine	pentazocine		EFFECT
+glycine	glutamate		EFFECT
+glycine	glutamate		EFFECT
+ibogaine	morphine		EFFECT
+ibogaine	nicotine		EFFECT
+18-MC	morphine		EFFECT
+18-MC	nicotine		EFFECT
+ibogaine	cocaine		EFFECT
+Ibogaine	morphine		EFFECT
+18-MC	morphine		EFFECT
+trichlorfon	coumaphos		EFFECT
+phenobarbital sodium	coumaphos		EFFECT
+Amiodarone	digoxin		MECHANISM
+amiodarone	digoxin		MECHANISM
+digoxin	amiodarone		MECHANISM
+ADL 8-2698	morphine		EFFECT
+ADL-8-2698	opioid		EFFECT
+Morphine	ADL 8-2698		EFFECT
+ADL 8-2698	morphine		EFFECT
+Misonidazole	CCNU		EFFECT
+Misonidazole	CCNU		EFFECT
+Misonidazole	CCNU		MECHANISM
+CCNU	misonidazole		MECHANISM
+neurotensin	enkephalins		EFFECT
+neurotensin	tuftsin		EFFECT
+neurotensin	enkephalins		EFFECT
+neurotensin	tuftsin		EFFECT
+neurotensin	tuftsin		EFFECT
+Cypermethrin	vitamin E		EFFECT
+Cypermethrin	allopurinol		EFFECT
+allopurinol	cypermethrin		EFFECT
+Vitamin E	cypermethrin		EFFECT
+cypermethrin	allopurinol		EFFECT
+cypermethrin	Vitamin E		EFFECT
+(-)-NANM	morphine		EFFECT
+(-)-NANM	naloxone		EFFECT
+naloxone	(-)-NANM		EFFECT
+naloxone	morphine		EFFECT
+Haloperidol	(+)-NANM		EFFECT
+Haloperidol	PCP		EFFECT
+Diazepam	morphine		EFFECT
+diazepam	metamizol		EFFECT
+diazepam	indomethacin		EFFECT
+Midazolam	morphine		EFFECT
+Midazolam	metamizol		EFFECT
+Midazolam	indomethacin		EFFECT
+nitrate	sildenafil		EFFECT
+indinavir	didanosine		MECHANISM
+indinavir	didanosine		MECHANISM
+Indinavir	didanosine		ADVISE
+InsP(3)	RR		EFFECT
+RR	InsP(3)		EFFECT
+antidepressant drugs	hypoglycemic agents		INT
+Echistatin	contortrostatin		EFFECT
+Flavoridin	contortrostatin		EFFECT
+Dexamethasone	EGF		EFFECT
+Dexamethasone	insulin		EFFECT
+retinyl acetate	EGF		EFFECT
+retinyl acetate	insulin		EFFECT
+dexamethasone	EGF		EFFECT
+dexamethasone	insulin		EFFECT
+retinyl acetate	EGF		EFFECT
+retinyl acetate	insulin		EFFECT
+Dexamethasone	EGF		EFFECT
+retinyl acetate	EGF		EFFECT
+dexamethasone	EGF		EFFECT
+retinyl acetate	EGF		EFFECT
+retinyl acetate	insulin		EFFECT
+dexamethasone	insulin		EFFECT
+dexamethasone	EGF		EFFECT
+retinyl acetate	insulin		EFFECT
+retinyl acetate	EGF		EFFECT
+glucocorticoids	insulin		EFFECT
+glucocorticoids	EGF		EFFECT
+retinoids	insulin		EFFECT
+retinoids	EGF		EFFECT
+lead	alcohol		EFFECT
+ofloxacin	KRM-1648		EFFECT
+rifampicin	ofloxacin		EFFECT
+rifabutin	ofloxacin		EFFECT
+ethanol	disulfiram		EFFECT
+simvastatin	clarithromycin		EFFECT
+Clarithromycin	simvastatin		MECHANISM
+macrolide antibiotics	hydroxymethylglutaryl coenzyme A (HMG-CoA) reductase inhibitors		EFFECT
+Macrolide antibiotics	atorvastatin		MECHANISM
+Macrolide antibiotics	cerivastatin		MECHANISM
+Macrolide antibiotics	lovastatin		MECHANISM
+Macrolide antibiotics	simvastatin		MECHANISM
+diltiazem	sirolimus		MECHANISM
+sirolimus	diltiazem		MECHANISM
+sirolimus	diltiazem		MECHANISM
+diltiazem	sirolimus		MECHANISM
+sirolimus	diltiazem		ADVISE
+temazepam	ethanol		MECHANISM
+temazepam	ethanol		MECHANISM
+alcohol	3-hydroxy-1,4-benzodiazepine		MECHANISM
+perchlorate	pertechnetate		MECHANISM
+TAM	1,25(OH)2D3		EFFECT
+1,25(OH)2D3	TAM		EFFECT
+acetaminophen	caffeine		EFFECT
+acetaminophen	caffeine		EFFECT
+penicillins	probenecid		MECHANISM
+cephaloridine	probenecid		MECHANISM
+probenecid	cloxacillin		MECHANISM
+fluoxetine	cisapride		MECHANISM
+cisplatin	sodium thiosulfate		EFFECT
+Sodium thiosulfate	cisplatin		EFFECT
+thiosulfate	cisplatin		MECHANISM
+phenytoin	quetiapine		MECHANISM
+thiabendazole	melarsoprol		EFFECT
+trovafloxacin	opiate		MECHANISM
+trovafloxacin	morphine		MECHANISM
+ciprofloxacin	opiate		MECHANISM
+ciprofloxacin	morphine		MECHANISM
+Cholestyramine	fluvastatin		MECHANISM
+cholestyramine	fluvastatin		EFFECT
+ouabain	PTX		EFFECT
+ouabain	phentolamine		EFFECT
+ouabain	PTX		EFFECT
+cimetidine	verografine		MECHANISM
+cimetidine	iodamide		MECHANISM
+DCG-IV	PCP		EFFECT
+warfarin	sedatives		INT
+Barbiturates	coumarin drugs		ADVISE
+glutethimide	coumarin drugs		ADVISE
+Chloral hydrate	anticoagulant agents		INT
+methaqualone	anticoagulant agents		INT
+ketamine	ouabain		EFFECT
+Innovar Vet	ouabain		EFFECT
+pentobarbital	ouabain		EFFECT
+ouabain	Innovar		EFFECT
+ouabain	ketamine		EFFECT
+ouabain	droperidol		EFFECT
+MPTP	pargyline		EFFECT
+MPTP	amphetamine		EFFECT
+MPTP	apomorphine		EFFECT
+Methamphetamine	pargyline		EFFECT
+Acetaminophen	theophylline		MECHANISM
+Theophylline	acetaminophen		MECHANISM
+Valproic acid	phenobarbital		MECHANISM
+acetaminophen	theophylline		EFFECT
+phenobarbital	acetaminophen		EFFECT
+valproic acid	phenobarbital		EFFECT
+GL	antibiotics		EFFECT
+GL	cefazolin		EFFECT
+99mTc-methylene diphosphonate	gentamicin		EFFECT
+gentamicin	99mTc-MDP		MECHANISM
+cocaine	norepinephrine		EFFECT
+desipramine	norepinephrine		EFFECT
+METH	SCH-23390		EFFECT
+ethanol	acetaldehyde		EFFECT
+prostaglandin F2alpha	oxytocin		INT
+PGF2alpha	oxytocin		EFFECT
+PGF2alpha	oxytocin		EFFECT
+ketamine	halothane		INT
+halothane	ketamine		MECHANISM
+ketamine	halothane		MECHANISM
+ketamine	halothane		EFFECT
+naloxone	beta-endorphin		EFFECT
+naloxone	beta-endorphin		EFFECT
+naloxone	morphine		EFFECT
+naloxone	beta-endorphin		EFFECT
+naloxone	morphine		EFFECT
+picrotoxin	diazepam		EFFECT
+picrotoxin	phenazepam		EFFECT
+picrotoxin	phenibut		EFFECT
+picrotoxin	amizyl		EFFECT
+picrotoxin	phentolamine		EFFECT
+4-methylpyrazole	1,3-difluoro-2-propanol		EFFECT
+4-methylpyrazole	1,3-difluoro-2-propanol		EFFECT
+clindamycin	gentamicin		INT
+clindamycin	gentamicin		EFFECT
+clindamycin	gentamicin		EFFECT
+theophylline	CGS 21680		EFFECT
+theophylline	CGS21680		EFFECT
+gentamycin	atracurium		INT
+atracurium	gentamycin		EFFECT
+atracurium	gentamycin		EFFECT
+atracurium	gentamycin		EFFECT
+gentamycin	atracurium		EFFECT
+Sildenafil	long-acting nitrates		ADVISE
+Sildenafil	short-acting nitrates		ADVISE
+Amprenavir	rifabutin		MECHANISM
+Amprenavir	25-O-desacetylrifabutin		MECHANISM
+Rifampin	amprenavir		MECHANISM
+Amprenavir	rifabutin		EFFECT
+Rifampin	amprenavir		MECHANISM
+Amprenavir	rifabutin		MECHANISM
+Amprenavir	25-O-desacetylrifabutin		MECHANISM
