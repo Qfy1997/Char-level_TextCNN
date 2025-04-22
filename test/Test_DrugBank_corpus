@@ -1,0 +1,884 @@
+Tetracycline	penicillin		EFFECT
+Probenecid	meropenem		MECHANISM
+probenecid	meropenem		ADVISE
+meropenem	valproic acid		MECHANISM
+reserpine	beta-blocking agents		EFFECT
+Pindolol	thioridazine		MECHANISM
+Nalidixic acid	melphalan		EFFECT
+melphalan	cyclosporin		EFFECT
+ketoconazole	mifepristone		MECHANISM
+itraconazole	mifepristone		MECHANISM
+erythromycin	mifepristone		MECHANISM
+anticonvulsants	mifepristone		MECHANISM
+phenytoin	mifepristone		MECHANISM
+phenobarbital	mifepristone		MECHANISM
+carbamazepine	mifepristone		MECHANISM
+midazolam	azole antimycotics		ADVISE
+midazolam	protease inhibitors		ADVISE
+midazolam	calcium channel antagonists		ADVISE
+midazolam	macrolide antibiotics		ADVISE
+erythromycin	midazolam		MECHANISM
+diltiazem	midazolam		MECHANISM
+verapamil	midazolam		MECHANISM
+ketoconazole	midazolam		MECHANISM
+fluconazole	midazolam		MECHANISM
+itraconazole	midazolam		MECHANISM
+ritonavir	midazolam		MECHANISM
+nelfinavir	midazolam		MECHANISM
+rifampin	midazolam		MECHANISM
+carbamazepine	midazolam		MECHANISM
+phenytoin	midazolam		MECHANISM
+VERSED Syrup	narcotics		EFFECT
+VERSED Syrup	morphine		EFFECT
+VERSED Syrup	meperidine		EFFECT
+VERSED Syrup	fentanyl		EFFECT
+VERSED Syrup	propofol		EFFECT
+VERSED Syrup	ketamine		EFFECT
+VERSED Syrup	nitrous oxide		EFFECT
+VERSED Syrup	secobarbital		EFFECT
+VERSED Syrup	droperidol		EFFECT
+diuretics	ACEON		EFFECT
+diuretic	perindopril		EFFECT
+diuretics	ACEON		ADVISE
+digoxin	perindopril		MECHANISM
+digoxin	perindoprilat		MECHANISM
+perindopril	gentamicin		INT
+SPIRIVA	anticholinergic		ADVISE
+SPIRIVA	ipratropium		ADVISE
+Thiabendazole	theophylline		MECHANISM
+thiabendazole	xanthine derivatives		ADVISE
+Trilostane	aminoglutethimide		INT
+Trilostane	mitotane		INT
+SYMLIN	anticholinergic agents		ADVISE
+SYMLIN	atropine		ADVISE
+SYMLIN	alpha glucosidase inhibitors		ADVISE
+analgesics	SYMLIN		ADVISE
+SYMLIN	human insulin		MECHANISM
+megestrol acetate	indinavir		MECHANISM
+indinavir	megestrol acetate		ADVISE
+minoxidil	guanethidine		EFFECT
+guanethidine	minoxidil		ADVISE
+Scopolamine	sedatives		ADVISE
+Scopolamine	tranquilizers		ADVISE
+Scopolamine	alcohol		ADVISE
+Cholestyramine	raloxifene		MECHANISM
+Cholestyramine	EVISTA		ADVISE
+EVISTA	warfarin		ADVISE
+EVISTA	clofibrate		ADVISE
+EVISTA	indomethacin		ADVISE
+EVISTA	naproxen		ADVISE
+EVISTA	ibuprofen		ADVISE
+EVISTA	diazepam		ADVISE
+EVISTA	diazoxide		ADVISE
+paliperidone	centrally acting drugs		ADVISE
+paliperidone	alcohol		ADVISE
+INVEGA	centrally acting drugs		ADVISE
+INVEGA	alcohol		ADVISE
+Paliperidone	levodopa		EFFECT
+Paliperidone	dopamine agonists		EFFECT
+ZADAXIN	immunomodulating drugs		ADVISE
+phenytoin	ondansetron		MECHANISM
+phenytoin	ondansetron		MECHANISM
+carbamazepine	ondansetron		MECHANISM
+carbamazepine	ondansetron		MECHANISM
+rifampicin	ondansetron		MECHANISM
+rifampicin	ondansetron		MECHANISM
+ondansetron	tramadol		EFFECT
+Streptase	antiplatelet agents		EFFECT
+Streptase	anticoagulants		EFFECT
+Streptokinase	antiplatelet agents		EFFECT
+Streptokinase	anticoagulants		EFFECT
+aspirin	Streptokinase		EFFECT
+SKELID	calcium		MECHANISM
+aluminum	SKELID		MECHANISM
+magnesium	SKELID		MECHANISM
+Aspirin	SKELID		MECHANISM
+SKELID	indomethacin		MECHANISM
+lithium	Neulasta		ADVISE
+AGGRASTAT	heparin		EFFECT
+AGGRASTAT	aspirin		EFFECT
+Anticholinergics	opioid analgesics		EFFECT
+oxymorphone	propofol		EFFECT
+cimetidine	opioid analgesics		EFFECT
+Sulfamethizole	barbiturates		EFFECT
+Sulfamethizole	tolbutamide		EFFECT
+Sulfamethizole	uricosurics		EFFECT
+phenobarbital	montelukast		ADVISE
+rifampin	montelukast		ADVISE
+phenobarbital	montelukast		ADVISE
+rifampin	montelukast		ADVISE
+Metopirone	phenytoin		MECHANISM
+Metopirone	acetaminophen		MECHANISM
+Metopirone	acetaminophen		EFFECT
+trimetrexate	erythromycin		EFFECT
+trimetrexate	rifampin		EFFECT
+trimetrexate	rifabutin		EFFECT
+trimetrexate	ketoconazole		EFFECT
+trimetrexate	fluconazole		EFFECT
+cimetidine	trimetrexate		MECHANISM
+imidazole drugs	trimetrexate		MECHANISM
+clotrimazole	trimetrexate		MECHANISM
+ketoconazole	trimetrexate		MECHANISM
+miconazole	trimetrexate		MECHANISM
+mazindol	monoamine oxidase inhibitor		ADVISE
+mazindol	MAOI		ADVISE
+mazindol	isocarboxazid		ADVISE
+mazindol	Marplan		ADVISE
+mazindol	tranylcypromine		ADVISE
+mazindol	Parnate		ADVISE
+mazindol	phenelzine		ADVISE
+mazindol	Nardil		ADVISE
+insulin	mazindol		ADVISE
+Mazindol	guanethidine		EFFECT
+Mazindol	Ismelin		EFFECT
+ZOLINZA	coumarin-derivative anticoagulants		EFFECT
+ZOLINZA	coumarin derivatives		ADVISE
+ZOLINZA	HDAC inhibitors		EFFECT
+ZOLINZA	valproic acid		EFFECT
+Dopamine antagonists	Permax		ADVISE
+neuroleptics	Permax		ADVISE
+phenothiazines	Permax		ADVISE
+butyrophenones	Permax		ADVISE
+thioxanthines	Permax		ADVISE
+metoclopramide	Permax		ADVISE
+opioids	levomepromazine		EFFECT
+levomepromazine	opioids		EFFECT
+levomepromazine	benzodiazepines		EFFECT
+levomepromazine	barbiturates		EFFECT
+levomepromazine	anticholinergic drugs		ADVISE
+levomepromazine	tricyclic antidepressants		ADVISE
+levomepromazine	antiparkinsonian-agents		ADVISE
+Caffeine	levomepromazine		EFFECT
+ephedrine	levomepromazine		EFFECT
+amphetamine	levomepromazine		EFFECT
+GH	antipyrine		MECHANISM
+GH	corticosteroids		MECHANISM
+GH	sex steroids		MECHANISM
+GH	anticonvulsants		MECHANISM
+GH	cyclosporin		MECHANISM
+Triprolidine	central nervous system depressants		EFFECT
+Triprolidine	alcohol		EFFECT
+Triprolidine	barbiturates		EFFECT
+Triprolidine	hypnotics		EFFECT
+Triprolidine	narcotic analgesics		EFFECT
+Triprolidine	sedatives		EFFECT
+Triprolidine	tranquillisers		EFFECT
+anticholinergic drugs	triprolidine		EFFECT
+atropine	triprolidine		EFFECT
+tricyclic antidepressants	triprolidine		EFFECT
+gemfibrozil	rosiglitazone		MECHANISM
+rifampin	rosiglitazone		MECHANISM
+Celontin	antiepileptic drugs		ADVISE
+methsuximide	antiepileptic drugs		ADVISE
+methsuximide	phenytoin		MECHANISM
+methsuximide	phenobarbital		MECHANISM
+short-acting beta adrenergic aerosol bronchodilators	MAXAIR AUTOHALER		ADVISE
+ketoconazole	terfenadine		EFFECT
+ketoconazole	terfenadine		MECHANISM
+ketoconazole	terfenadine		ADVISE
+terfenadine	itraconazole		MECHANISM
+itraconazole	terfenadine		ADVISE
+azole-type antifungal agents	terfenadine		ADVISE
+fluconazole	terfenadine		ADVISE
+metronidazole	terfenadine		ADVISE
+miconazole	terfenadine		ADVISE
+erythromycin	terfenadine		MECHANISM
+clarithromycin	terfenadine		MECHANISM
+terfenadine	clarithromycin		ADVISE
+terfenadine	erythromycin		ADVISE
+terfenadine	troleandomycin		ADVISE
+terfenadine	macrolide antibiotics		ADVISE
+terfenadine	azithromycin		ADVISE
+rimantadine HCl	Cimetidine		MECHANISM
+acetaminophen	rimantadine		MECHANISM
+rimantadine	aspirin		MECHANISM
+proton pump inhibitors	warfarin		EFFECT
+pantoprazole	warfarin		EFFECT
+proton pump inhibitors	warfarin		ADVISE
+pantoprazole	ketoconazole		MECHANISM
+pantoprazole	ampicillin		MECHANISM
+pantoprazole	iron		MECHANISM
+Anabolic steroids	anticoagulants		EFFECT
+oxandrolone	warfarin		MECHANISM
+oxandrolone	warfarin		ADVISE
+warfarin	oxandrolone		ADVISE
+Oxandrolone	hypoglycemic agents		MECHANISM
+Zidovudine	stavudine		EFFECT
+zidovudine	ZERIT		ADVISE
+stavudine	doxorubicin		EFFECT
+stavudine	ribavirin		EFFECT
+morphine	CNS depressants		EFFECT
+morphine	alcohol		EFFECT
+morphine	sedatives		EFFECT
+morphine	antihistaminics		EFFECT
+morphine	psychotropic drugs		EFFECT
+neuroleptics	morphine		EFFECT
+Agonist/antagonist analgesics	opioid agonist analgesic		ADVISE
+pentazocine	opioid agonist analgesic		ADVISE
+nalbuphine	opioid agonist analgesic		ADVISE
+butorphanol	opioid agonist analgesic		ADVISE
+buprenorphine	opioid agonist analgesic		ADVISE
+insulin	SOMAVERT		ADVISE
+hypoglycemic	SOMAVERT		ADVISE
+opioids	pegvisomant		MECHANISM
+phenobarbital	corticosteroids		MECHANISM
+phenobarbital	corticosteroid		MECHANISM
+phenytoin	corticosteroids		MECHANISM
+phenytoin	corticosteroid		MECHANISM
+rifampin	corticosteroids		MECHANISM
+rifampin	corticosteroid		MECHANISM
+troleandomycin	corticosteroids		MECHANISM
+ketoconazole	corticosteroids		MECHANISM
+Corticosteroids	aspirin		MECHANISM
+salicylate	corticosteroid		EFFECT
+Aspirin	corticosteroids		ADVISE
+corticosteroids	anticoagulants		EFFECT
+anticoagulants	corticosteroids		EFFECT
+ketoconazole	paricalcitol		MECHANISM
+paricalcitol	ketoconazole		ADVISE
+paricalcitol	atazanavir		ADVISE
+paricalcitol	clarithromycin		ADVISE
+paricalcitol	indinavir		ADVISE
+paricalcitol	itraconazole		ADVISE
+paricalcitol	nefazodone		ADVISE
+paricalcitol	nelfinavir		ADVISE
+paricalcitol	ritonavir		ADVISE
+paricalcitol	saquinavir		ADVISE
+paricalcitol	telithromycin		ADVISE
+paricalcitol	voriconazole		ADVISE
+Zemplar	ketoconazole		ADVISE
+fat-soluble vitamins	cholestyramine		MECHANISM
+cholestyramine	Zemplar		MECHANISM
+alcohol	pentazocine		ADVISE
+metronidazole	coumarin		EFFECT
+metronidazole	warfarin		EFFECT
+testolactone	anticoagulants		EFFECT
+Alcohol	riboflavin		MECHANISM
+Probenecid	riboflavin		MECHANISM
+riboflavin	probenecid		EFFECT
+Ketoconazole	tolterodine		MECHANISM
+ketoconazole	DETROL LA		ADVISE
+azole antifungals	DETROL LA		ADVISE
+itraconazole	DETROL LA		ADVISE
+miconazole	DETROL LA		ADVISE
+macrolide antibiotics	DETROL LA		ADVISE
+erythromycin	DETROL LA		ADVISE
+clarithromycin	DETROL LA		ADVISE
+cyclosporine	DETROL LA		ADVISE
+vinblastine	DETROL LA		ADVISE
+paclitaxel	HERCEPTIN		MECHANISM
+Melatonin	aspirin		INT
+Melatonin	NSAIDs		INT
+Melatonin	fluvoxamine		INT
+Melatonin	beta blockers		INT
+Melatonin	fluoxetine		INT
+Melatonin	progestin		INT
+Melatonin	benzodiazepenes		INT
+Melatonin	corticosteroids		INT
+melatonin	progestin		EFFECT
+melatonin	corticosteroids		EFFECT
+cyclosporin	methylprednisolone		MECHANISM
+methylprednisolone	cyclosporin		EFFECT
+phenobarbital	methylprednisolone		MECHANISM
+phenobarbital	methylprednisolone		ADVISE
+phenytoin	methylprednisolone		MECHANISM
+phenytoin	methylprednisolone		ADVISE
+rifampin	methylprednisolone		MECHANISM
+rifampin	methylprednisolone		ADVISE
+troleandomycin	methylprednisolone		MECHANISM
+ketoconazole	methylprednisolone		MECHANISM
+Methylprednisolone	aspirin		MECHANISM
+salicylate	methylprednisolone		EFFECT
+Aspirin	corticosteroids		ADVISE
+anticoagulant	corticosteroids		EFFECT
+Thiazide diuretics	phenothiazines		EFFECT
+guanethidine	phenothiazines		EFFECT
+propranolol	phenothiazines		MECHANISM
+cholestyramine	ezetimibe		MECHANISM
+ezetimibe	cholestyramine		EFFECT
+ZETIA	fibrates		ADVISE
+fenofibrate	ezetimibe		MECHANISM
+ezetimibe	cyclosporine		MECHANISM
+ezetimibe	cyclosporine		ADVISE
+alcohol	phentermine hydrochloride		INT
+anticoagulants	methimazole		EFFECT
+CHEMET	CaNa 2 EDTA		ADVISE
+anticonvulsants	Mephenytoin		INT
+Mephenytoin	steroid medications		EFFECT
+Mephenytoin	warfarin		EFFECT
+Mephenytoin	anti-infective medicines		EFFECT
+Mephenytoin	furosemide		EFFECT
+Mephenytoin	theophylline		EFFECT
+ketoconazole	mometasone furoate		MECHANISM
+Sulfoxone	barbiturates		EFFECT
+Sulfoxone	tolbutamide		EFFECT
+Sulfoxone	uricosurics		EFFECT
+Methscopolamine	tricyclic		INT
+Methscopolamine	MAO inhibitors		INT
+Methscopolamine	phenelzine		INT
+Methscopolamine	linezolid		INT
+Methscopolamine	tranylcypromine		INT
+Methscopolamine	isocarboxazid		INT
+Methscopolamine	selegiline		INT
+Methscopolamine	furazolidone		INT
+Methscopolamine	quinidine		INT
+Methscopolamine	amantadine		INT
+Methscopolamine	antihistamines		INT
+Methscopolamine	diphenhydramine		INT
+Methscopolamine	anticholinergics		INT
+Methscopolamine	potassium chloride		INT
+Methscopolamine	antacids		INT
+Methscopolamine	absorbent-type anti-diarrhea medicines		INT
+Methscopolamine	kaolin		INT
+Methscopolamine	pectin		INT
+Methscopolamine	phenothiazines		INT
+Methscopolamine	chlorpromazine		INT
+Methscopolamine	promethazine		INT
+Mequitazine	CNS depressant		INT
+Mequitazine	antichlolinergic		INT
+Mequitazine	TCA		INT
+Mequitazine	MAOIs		INT
+Mequitazine	alcohol		INT
+VESIcare	ketoconazole		ADVISE
+diphosphonate	Calcitonin (salmon)		EFFECT
+bacteriostatic antibiotics	penicillins		EFFECT
+erythromycin	penicillins		EFFECT
+tetracycline	penicillins		EFFECT
+Penicillin	probenecid		MECHANISM
+Myfortic	magnesium		MECHANISM
+Myfortic	aluminum		MECHANISM
+Myfortic	antacids		ADVISE
+Myfortic	azathioprine		ADVISE
+Myfortic	mycophenolate mofetil		ADVISE
+Myfortic	cholestyramine		ADVISE
+Myfortic	activated charcoal		ADVISE
+levonorgesterol	mycophenolate mofetil		MECHANISM
+contraceptives	Myfortic		ADVISE
+Myfortic	live attenuated vaccines		ADVISE
+ProAmatine	cardiac glycosides		EFFECT
+phenylephrine	ProAmatine		EFFECT
+pseudoephedrine	ProAmatine		EFFECT
+ephedrine	ProAmatine		EFFECT
+phenylpropanolamine	ProAmatine		EFFECT
+dihydroergotamine	ProAmatine		EFFECT
+Alpha-adrenergic blocking agents	ProAmatine		EFFECT
+prazosin	ProAmatine		EFFECT
+terazosin	ProAmatine		EFFECT
+doxazosin	ProAmatine		EFFECT
+desglymidodrine	metformin		MECHANISM
+desglymidodrine	cimetidine		MECHANISM
+desglymidodrine	ranitidine		MECHANISM
+desglymidodrine	procainamide		MECHANISM
+desglymidodrine	triamterene		MECHANISM
+desglymidodrine	flecainide		MECHANISM
+desglymidodrine	quinidine		MECHANISM
+DIFLUCAN	hypoglycemic agents		EFFECT
+DIFLUCAN	glyburide		EFFECT
+DIFLUCAN	tolbutamide		MECHANISM
+DIFLUCAN	glyburide		MECHANISM
+DIFLUCAN	glipizide		MECHANISM
+DIFLUCAN	sulfonylurea oral hypoglycemic agents		ADVISE
+DIFLUCAN	coumarin-type anticoagulants		EFFECT
+fluconazole	warfarin		EFFECT
+DIFLUCAN	coumarin-type anticoagulants		ADVISE
+DIFLUCAN	phenytoin		MECHANISM
+DIFLUCAN	phenytoin		ADVISE
+DIFLUCAN	cyclosporine		MECHANISM
+DIFLUCAN	cyclosporine		ADVISE
+Rifampin	DIFLUCAN		MECHANISM
+DIFLUCAN	rifampin		ADVISE
+DIFLUCAN	theophylline		MECHANISM
+DIFLUCAN	theophylline		ADVISE
+azole antifungals	terfenadine		EFFECT
+DIFLUCAN	terfenadine		MECHANISM
+fluconazole	terfenadine		ADVISE
+fluconazole	terfenadine		ADVISE
+fluconazole	cisapride		EFFECT
+fluconazole	cisapride		MECHANISM
+fluconazole	cisapride		ADVISE
+fluconazole	astemizole		MECHANISM
+fluconazole	rifabutin		EFFECT
+rifabutin	fluconazole		ADVISE
+fluconazole	tacrolimus		EFFECT
+tacrolimus	fluconazole		ADVISE
+midazolam	fluconazole		MECHANISM
+midazolam	fluconazole		EFFECT
+short-acting benzodiazepines	fluconazole		ADVISE
+Fluconazole	ethinyl estradiol		MECHANISM
+Fluconazole	levonorgestrel		MECHANISM
+fluconazole	ethinyl estradiol		MECHANISM
+fluconazole	levonorgestrel		MECHANISM
+heparin	Retavase		EFFECT
+vitamin K antagonists	Retavase		EFFECT
+aspirin	Retavase		EFFECT
+dipyridamole	Retavase		EFFECT
+abciximab	Retavase		EFFECT
+Barbiturates	contraceptives		INT
+Barbiturates	antibiotics		INT
+Barbiturates	quinidine		INT
+Barbiturates	theophylline		INT
+Barbiturates	corticosteroids		INT
+Barbiturates	anticoagulants		INT
+Barbiturates	beta blockers		INT
+alcohol	mirtazapine		MECHANISM
+REMERON	alcohol		EFFECT
+alcohol	REMERON SolTab		ADVISE
+diazepam	mirtazapine		MECHANISM
+REMERON	diazepam		EFFECT
+diazepam	REMERON SolTab		ADVISE
+TOLECTIN	warfarin		EFFECT
+TOLECTIN	anticoagulants		ADVISE
+TOLECTIN	methotrexate		ADVISE
+TOLECTIN	methotrexate		MECHANISM
+nonsteroidal anti-inflammatory drugs	methotrexate		MECHANISM
+sulfamethoxazole	warfarin		EFFECT
+Sulfamethoxazole	phenytoin		MECHANISM
+sulfamethoxazole	phenytoin		MECHANISM
+Sulfonamides	methotrexate		MECHANISM
+MEPERIDINE	NARCOTIC ANALGESICS		ADVISE
+MEPERIDINE	ANESTHETICS		ADVISE
+MEPERIDINE	PHENOTHIAZINES		ADVISE
+MEPERIDINE	TRANQUILIZERS		ADVISE
+MEPERIDINE	SEDATIVE-HYPNOTICS		ADVISE
+MEPERIDINE	BARBITURATES		ADVISE
+MEPERIDINE	TRICYCLIC ANTIDEPRESSANTS		ADVISE
+MEPERIDINE	CNS DEPRESSANTS		ADVISE
+MEPERIDINE	ALCOHOL		ADVISE
+acetylcholine chloride	suprofen		EFFECT
+Miochol	suprofen		EFFECT
+carbachol	suprofen		EFFECT
+Carboptic	suprofen		EFFECT
+Isopto Carbachol	suprofen		EFFECT
+cimetidine	mebendazole		MECHANISM
+antibiotics	ganglion blockers		ADVISE
+sulfonamides	ganglion blockers		ADVISE
+Mecamylamine	antihypertensive drugs		EFFECT
+Mecamylamine	alcohol		EFFECT
+norepinephrine	sodium bicarbonate		INT
+dobutamine	sodium bicarbonate		INT
+ergotamine	sumatriptan		ADVISE
+ergot-type medications	sumatriptan		ADVISE
+dihydroergotamine	sumatriptan		ADVISE
+methysergide	sumatriptan		ADVISE
+MAO-A inhibitors	sumatriptan		MECHANISM
+sumatriptan succinate	MAO-A inhibitors		ADVISE
+Selective serotonin reuptake inhibitors	sumatriptan		EFFECT
+SSRIs	sumatriptan		EFFECT
+fluoxetine	sumatriptan		EFFECT
+fluvoxamine	sumatriptan		EFFECT
+paroxetine	sumatriptan		EFFECT
+sertraline	sumatriptan		EFFECT
+sumatriptan	SSRI		ADVISE
+vigabatrin	carbamazepine		MECHANISM
+vigabatrin	phenytoin		MECHANISM
+SKELAXIN	alcohol		EFFECT
+SKELAXIN	barbiturates		EFFECT
+SKELAXIN	CNS depressants		EFFECT
+coumarin-type anticoagulants	FELDENE		INT
+FELDENE	coumarin-type anticoagulants		ADVISE
+FELDENE	aspirin		MECHANISM
+Nonsteroidal anti-inflammatory agents	lithium		MECHANISM
+FELDENE	lithium		MECHANISM
+lithium	FELDENE		ADVISE
+digitalis	sympathomimetic amines		EFFECT
+Monoamine oxidase inhibitors	sympathomimetic amines		EFFECT
+tricyclic antidepressants	sympathomimetic amines		EFFECT
+cholinesterase inhibitors	anticholinergic medications		INT
+cholinesterase inhibitors	succinylcholine		EFFECT
+cholinesterase inhibitors	neuromuscular blocking agents		EFFECT
+cholinesterase inhibitors	cholinergic agonists		EFFECT
+cholinesterase inhibitors	bethanechol		EFFECT
+Thiazides	norepinephrine		EFFECT
+Thiazide drugs	tubocurarine		EFFECT
+Lithium	thiazides		MECHANISM
+Thiazides	antihypertensive drugs		EFFECT
+vancomycin	anesthetic agents		EFFECT
+Methysergide	narcotic analgesics		EFFECT
+metoclopramide	anticholinergic drugs		EFFECT
+metoclopramide	narcotic analgesics		EFFECT
+metoclopramide	alcohol		EFFECT
+metoclopramide	sedatives		EFFECT
+metoclopramide	hypnotics		EFFECT
+metoclopramide	narcotics		EFFECT
+metoclopramide	tranquilizers		EFFECT
+metoclopramide	monoamine oxi-dase inhibitors		ADVISE
+digoxin	metoclopramide		MECHANISM
+metoclopramide	acetaminophen		MECHANISM
+metoclopramide	insulin		ADVISE
+Trimethoprim	phenytoin		MECHANISM
+Trimethoprim	phenytoin		MECHANISM
+Trimethoprim	phenytoin		MECHANISM
+succinylcholine	nondepolarizing agents		EFFECT
+succinylcholine	MIVACRON		ADVISE
+nondepolarizing agents	antibiotics		INT
+nondepolarizing agents	aminoglycosides		INT
+nondepolarizing agents	tetracyclines		INT
+nondepolarizing agents	bacitracin		INT
+nondepolarizing agents	polymyxins		INT
+nondepolarizing agents	lincomycin		INT
+nondepolarizing agents	clindamycin		INT
+nondepolarizing agents	colistin		INT
+nondepolarizing agents	sodium colistimethate		INT
+nondepolarizing agents	magnesium		INT
+nondepolarizing agents	lithium		INT
+nondepolarizing agents	anesthetics		INT
+nondepolarizing agents	procainamide		INT
+nondepolarizing agents	quinidine		INT
+MIVACRON	antibiotics		INT
+MIVACRON	aminoglycosides		INT
+MIVACRON	tetracyclines		INT
+MIVACRON	bacitracin		INT
+MIVACRON	polymyxins		INT
+MIVACRON	lincomycin		INT
+MIVACRON	clindamycin		INT
+MIVACRON	colistin		INT
+MIVACRON	sodium colistimethate		INT
+MIVACRON	magnesium		INT
+MIVACRON	lithium		INT
+MIVACRON	anesthetics		INT
+MIVACRON	procainamide		INT
+MIVACRON	quinidine		INT
+MIVACRON	contraceptives		EFFECT
+MIVACRON	glucocorticoids		EFFECT
+MIVACRON	monoamine oxidase inhibitors		EFFECT
+neuromuscular blocking agents	phenytoin		EFFECT
+neuromuscular blocking agents	carbamazepine		EFFECT
+phenytoin	MIVACRON		EFFECT
+carbamazepine	MIVACRON		EFFECT
+valproic acid	temozolomide		MECHANISM
+Furosemide	metolazone		EFFECT
+loop diuretics	metolazone		EFFECT
+MYKROX	antihypertensive drugs		ADVISE
+Diuretic	digitalis		EFFECT
+Diuretic	curariform drugs		EFFECT
+Diuretic	tubocurarine		EFFECT
+Salicylates	MYKROX		EFFECT
+Non-Steroidal Anti-Inflammatory Drugs	MYKROX		EFFECT
+Metolazone	norepinephrine		EFFECT
+Methenamine	metolazone		EFFECT
+Metolazone	anticoagulants		EFFECT
+Posicor	terfenadine		MECHANISM
+Posicor	astemizole		MECHANISM
+Posicor	cisapride		MECHANISM
+Posicor	cyclosporine		MECHANISM
+Posicor	tricyclic antidepressants		MECHANISM
+Vitamin B1	Loop Diuretics		INT
+Vitamin B1	Contraceptives		INT
+Vitamin B1	Stavudine		INT
+Vitamin B1	Tricyclic Antidepressants		INT
+Thiamine	Loop Diuretics		INT
+Thiamine	Contraceptives		INT
+Thiamine	Stavudine		INT
+Thiamine	Tricyclic Antidepressants		INT
+Cimetidine	pramipexole		MECHANISM
+cimetidine	pramipexole		MECHANISM
+ranitidine	pramipexole		MECHANISM
+diltiazem	pramipexole		MECHANISM
+triamterene	pramipexole		MECHANISM
+verapamil	pramipexole		MECHANISM
+quinidine	pramipexole		MECHANISM
+quinine	pramipexole		MECHANISM
+cephalosporins	pramipexole		MECHANISM
+penicillins	pramipexole		MECHANISM
+indomethacin	pramipexole		MECHANISM
+hydrochlorothiazide	pramipexole		MECHANISM
+chlorpropamide	pramipexole		MECHANISM
+dopamine antagonists	MIRAPEX		EFFECT
+neuroleptics	MIRAPEX		EFFECT
+phenothiazines	MIRAPEX		EFFECT
+butyrophenones	MIRAPEX		EFFECT
+thioxanthenes	MIRAPEX		EFFECT
+metoclopramide	MIRAPEX		EFFECT
+reserpine	beta-blocking agents		EFFECT
+ZAVESCA	Cerezyme		MECHANISM
+Cerezyme	ZAVESCA		ADVISE
+imiglucerase	ZAVESCA		ADVISE
+Sanctura	anticholinergic agents		EFFECT
+Sanctura	digoxin		MECHANISM
+Sanctura	procainamide		MECHANISM
+Sanctura	pancuronium		MECHANISM
+Sanctura	morphine		MECHANISM
+Sanctura	vancomycin		MECHANISM
+Sanctura	metformin		MECHANISM
+Sanctura	tenofovir		MECHANISM
+contraceptives	vitamin A		MECHANISM
+tigecycline	warfarin		ADVISE
+antibacterial drugs	contraceptives		EFFECT
+beta adrenergic aerosol bronchodilators	Alupent		ADVISE
+beta adrenergic aerosol bronchodilators	metaproterenol sulfate		ADVISE
+Beta adrenergic agonists	monoamine oxidase inhibitors		ADVISE
+Beta adrenergic agonists	tricyclic antidepressants		ADVISE
+CYLERT	antiepileptic medications		EFFECT
+methyldopa	antihypertensive drugs		EFFECT
+anesthetics	methyldopa		ADVISE
+methyldopa	lithium		ADVISE
+methyldopa	ferrous sulfate		MECHANISM
+methyldopa	ferrous gluconate		MECHANISM
+methyldopa	ferrous sulfate		ADVISE
+methyldopa	ferrous gluconate		ADVISE
+oxycodone hydrochloride	CNS depressants		EFFECT
+Sirolimus	MYCAMINE		MECHANISM
+Nifedipine	MYCAMINE		MECHANISM
+sirolimus	MYCAMINE		ADVISE
+nifedipine	MYCAMINE		ADVISE
+probenecid	ALIMTA		MECHANISM
+ibuprofen	ALIMTA		ADVISE
+NSAIDs	ALIMTA		ADVISE
+NSAIDs	ALIMTA		ADVISE
+Ethanol	abacavir		MECHANISM
+methadone	ZIAGEN		MECHANISM
+5-FU	ELOXATIN		MECHANISM
+TOBI	dornase alfa		EFFECT
+TOBI	PULMOZYME		EFFECT
+TOBI	(beta)-agonists		EFFECT
+TOBI	corticosteroids		EFFECT
+TOBI	anti-pseudomonal antibiotics		EFFECT
+TOBI	aminoglycosides		EFFECT
+diuretics	aminoglycoside		EFFECT
+TOBI	ethacrynic acid		ADVISE
+TOBI	furosemide		ADVISE
+TOBI	urea		ADVISE
+TOBI	mannitol		ADVISE
+PURINETHOL	TABLOID		EFFECT
+PURINETHOL	Thioguanine		EFFECT
+mercaptopurine	TABLOID		EFFECT
+mercaptopurine	Thioguanine		EFFECT
+aminosalicylate derivatives	thioguanine		MECHANISM
+olsalazine	thioguanine		MECHANISM
+mesalazine	thioguanine		MECHANISM
+sulphasalazine	thioguanine		MECHANISM
+lorazepam	pyrimethamine		EFFECT
+Leukine	lithium		EFFECT
+Leukine	corticosteroids		EFFECT
+tetracyclines	anticoagulant		ADVISE
+tetracycline class drugs	penicillin		ADVISE
+tetracyclines	aluminum		MECHANISM
+tetracyclines	calcium		MECHANISM
+tetracyclines	magnesium		MECHANISM
+tetracyclines	iron		MECHANISM
+tetracycline	methoxyflurane		EFFECT
+tetracyclines	contraceptives		EFFECT
+mexiletine	fluvoxamine		MECHANISM
+phenytoin	Mexitil		MECHANISM
+rifampin	Mexitil		MECHANISM
+phenobarbital	Mexitil		MECHANISM
+cimetidine	Mexitil		MECHANISM
+magnesium-aluminum hydroxide	digoxin		MECHANISM
+Mexitil	theophylline		MECHANISM
+Theophylline	Mexitil		MECHANISM
+Mexitil	theophylline		ADVISE
+caffeine	Mexitil		MECHANISM
+propoxyphene	CNS depressants		EFFECT
+propoxyphene	alcohol		EFFECT
+ascorbic acid	bishydroxycoumarin		MECHANISM
+ZEMURON	succinylcholine		ADVISE
+alcohol	methyprylon		EFFECT
+CNS depression-producing drugs	methyprylon		EFFECT
+Phenothiazines	CNS depressants		EFFECT
+Phenothiazines	barbiturates		EFFECT
+Phenothiazines	anesthetics		EFFECT
+Phenothiazines	opiates		EFFECT
+Phenothiazines	alcohol		EFFECT
+Terbinafine	caffeine		MECHANISM
+Terbinafine	cyclosporine		MECHANISM
+terbinafine	warfarin		EFFECT
+Terbinafine	rifampin		MECHANISM
+Terbinafine	cimetidine		MECHANISM
+Pilocarpine	beta adrenergic antagonists		ADVISE
+XENICAL	cyclosporine		MECHANISM
+beta-carotene	XENICAL		MECHANISM
+XENICAL	vitamin E acetate		MECHANISM
+vitamin K	XENICAL		MECHANISM
+warfarin	XENICAL		ADVISE
+TRITEC	clarithromycin		MECHANISM
+antacid	ranitidine		MECHANISM
+antacid	TRITEC		MECHANISM
+Vasopressors	halothane		EFFECT
+metaraminol	halothane		EFFECT
+sympathomimetic pressor amines	monoamine oxidase inhibitors		EFFECT
+sympathomimetic pressor amines	MAOI		EFFECT
+adrenergic agents	tricyclic antidepressants		EFFECT
+methadone	PEG-Intron		MECHANISM
+folic acid	sulfasalazine		MECHANISM
+digoxin	sulfasalazine		MECHANISM
+DIPRIVAN	narcotics		EFFECT
+DIPRIVAN	morphine		EFFECT
+DIPRIVAN	meperidine		EFFECT
+DIPRIVAN	fentanyl		EFFECT
+DIPRIVAN	analgesic agents		ADVISE
+DIPRIVAN	nitrous oxide		ADVISE
+DIPRIVAN	opioids		ADVISE
+DEMSER	phenothiazines		ADVISE
+DEMSER	haloperidol		ADVISE
+DEMSER	alcohol		EFFECT
+DEMSER	CNS depressants		EFFECT
+Anticoagulants	TNKase		EFFECT
+heparin	TNKase		EFFECT
+vitamin K antagonists	TNKase		EFFECT
+acetylsalicylic acid	TNKase		EFFECT
+dipyridamole	TNKase		EFFECT
+selegiline	meperidine		EFFECT
+meperidine	MAOIs		INT
+tricyclic antidepressants	ELDEPRYL		EFFECT
+selective serotonin reuptake inhibitors	ELDEPRYL		EFFECT
+selegiline	sympathomimetic medication		EFFECT
+selegiline	ephedrine		EFFECT
+FLOMAX	alpha-adrenergic blocking agents		ADVISE
+FLOMAX	cimetidine		ADVISE
+warfarin	FLOMAX		ADVISE
+aspirin	methazolamide		ADVISE
+aspirin	carbonic anhydrase inhibitors		EFFECT
+potassium-sparing diuretics	ACE inhibitors		EFFECT
+spironolactone	ACE inhibitors		EFFECT
+triamterene	ACE inhibitors		EFFECT
+amiloride	ACE inhibitors		EFFECT
+potassium	ACE inhibitors		EFFECT
+ACE inhibitors	lithium		EFFECT
+diuretic	lithium		EFFECT
+procaine hydrochloride	anticholinesterase agents		EFFECT
+anticholinesterases	procaine hydrochloride		MECHANISM
+procaine hydrochloride	CNS depressant medications		EFFECT
+Hyaluronidase	procaine hydrochloride		MECHANISM
+procaine hydrochloride	neuromuscular blocking agents		EFFECT
+procaine hydrochloride	sulfonamides		EFFECT
+acetazolamide	procaine hydrochloride		MECHANISM
+Ritalin	guanethidine		EFFECT
+Ritalin	coumarin anticoagulants		MECHANISM
+Ritalin	anticonvulsants		MECHANISM
+Ritalin	phenobarbital		MECHANISM
+Ritalin	diphenylhydantoin		MECHANISM
+Ritalin	primidone		MECHANISM
+Ritalin	phenylbutazone		MECHANISM
+Ritalin	tricyclic drugs		MECHANISM
+Ritalin	imipramine		MECHANISM
+Ritalin	clomipramine		MECHANISM
+Ritalin	desipramine		MECHANISM
+NEXAVAR	irinotecan		ADVISE
+NEXAVAR	doxorubicin		MECHANISM
+doxorubicin	NEXAVAR		ADVISE
+Streptozocin	doxorubicin		MECHANISM
+doxorubicin	ZANOSAR		ADVISE
+streptozocin	phenytoin		EFFECT
+Methergine	vasoconstrictors		ADVISE
+Methergine	ergot alkaloids		ADVISE
+methylergonovine maleate	vasoconstrictors		ADVISE
+NSAIDs	angiotensin-converting enzyme (ACE) inhibitors		EFFECT
+NSAIDs	ACE inhibitors		ADVISE
+aspirin	meloxicam		MECHANISM
+NSAIDs	aspirin		ADVISE
+meloxicam	aspirin		ADVISE
+aspirin	MOBIC		EFFECT
+cholestyramine	meloxicam		MECHANISM
+NSAIDs	furosemide		EFFECT
+NSAIDs	thiazide diuretics		EFFECT
+furosemide	MOBIC		ADVISE
+NSAIDs	lithium		MECHANISM
+lithium	meloxicam		MECHANISM
+lithium	MOBIC		ADVISE
+MOBIC	warfarin		ADVISE
+MOBIC	warfarin		ADVISE
+ASPIRIN	DISALCID		EFFECT
+SALICYLATE DRUGS	DISALCID		EFFECT
+Salicylates	anticoagulant drugs		EFFECT
+Salicylates	antidiabetic drugs		EFFECT
+Salicylate	penicillin		MECHANISM
+Salicylate	thiopental		MECHANISM
+Salicylate	thyroxine		MECHANISM
+Salicylate	triiodothyronine		MECHANISM
+Salicylate	phenytoin		MECHANISM
+Salicylate	sulfinpyrazone		MECHANISM
+Salicylate	naproxen		MECHANISM
+Salicylate	warfarin		MECHANISM
+Salicylate	methotrexate		MECHANISM
+Salicylate	corticosteroids		MECHANISM
+Mitotane	warfarin		MECHANISM
+Mitotane	coumarin-type anticoagulants		ADVISE
+MAO inhibitors	pseudoephedrine		EFFECT
+beta adrenergic blockers	pseudoephedrine		EFFECT
+Sympathomimetics	methyldopa		EFFECT
+Sympathomimetics	mecamylamine		EFFECT
+Sympathomimetics	reserpine		EFFECT
+Sympathomimetics	veratrum alkaloids		EFFECT
+Vindesine	Phenytoin		INT
+Vindesine	Live virus vaccines		INT
+Vindesine	Mitomycin-C		INT
+Vindesine	Killed virus vaccines		INT
+digoxin	sitagliptin		MECHANISM
+macrolides	terfenadine		INT
+macrolides	astemizole		INT
+roxithromycin	terfenadine		ADVISE
+roxithromycin	astemizole		ADVISE
+pimozide	macrolide antibacterials		MECHANISM
+cisapride	macrolide antibacterials		MECHANISM
+Vasopressors	halothane		EFFECT
+metaraminol	halothane		EFFECT
+sympathomimetic pressor amines	monoamine oxidase inhibitors		EFFECT
+sympathomimetic pressor amines	MAOI		EFFECT
+adrenergic agents	tricyclic antidepressants		EFFECT
+oxybutynin	anticholinergic drugs		EFFECT
+DITROPAN XL	ketoconazole		MECHANISM
+antimycotic agents	oxybutynin		MECHANISM
+itraconazole	oxybutynin		MECHANISM
+miconazole	oxybutynin		MECHANISM
+macrolide antibiotics	oxybutynin		MECHANISM
+erythromycin	oxybutynin		MECHANISM
+clarithromycin	oxybutynin		MECHANISM
+Thalidomide	barbiturates		EFFECT
+John's Wort	hormonal contraceptive agents		EFFECT
+Matulane	sympathomimetic drugs		ADVISE
+Matulane	tricyclic antidepressant		ADVISE
+Matulane	amitriptyline HCl		ADVISE
+Matulane	imipramine HCl		ADVISE
+Matulane	tyramine		ADVISE
+TRENTAL	anticoagulants		EFFECT
+TRENTAL	platelet aggregation inhibitors		EFFECT
+TRENTAL	theophylline		MECHANISM
+Ropivacaine	anesthetics		ADVISE
+ropivacaine	fluvoxamine		MECHANISM
+fluvoxamine	Ropivacaine		INT
+ketoconazole	ropivacaine		MECHANISM
+atropine	pralidoxime		EFFECT
+barbiturates	anticholinesterases		EFFECT
+SUTENT	ketoconazole		MECHANISM
+SUTENT	itraconazole		MECHANISM
+SUTENT	clarithromycin		MECHANISM
+SUTENT	atazanavir		MECHANISM
+SUTENT	indinavir		MECHANISM
+SUTENT	nefazodone		MECHANISM
+SUTENT	nelfinavir		MECHANISM
+SUTENT	ritonavir		MECHANISM
+SUTENT	saquinavir		MECHANISM
+SUTENT	telithromycin		MECHANISM
+SUTENT	voriconizole		MECHANISM
+SUTENT	dexamethasone		MECHANISM
+SUTENT	phenytoin		MECHANISM
+SUTENT	carbamazepine		MECHANISM
+SUTENT	rifampin		MECHANISM
+SUTENT	rifabutin		MECHANISM
+SUTENT	rifapentin		MECHANISM
+SUTENT	phenobarbital		MECHANISM
+tolbutamide	teniposide		MECHANISM
+sodium salicylate	teniposide		MECHANISM
+sulfamethizole	teniposide		MECHANISM
+methotrexate	teniposide		MECHANISM
+Aminoglutethimide	depo-subQ provera 104		MECHANISM
+anticholinergic drugs	amantadine		EFFECT
+anticholinergic drugs	antiarrhythmic agents of class I		EFFECT
+anticholinergic drugs	quinidine		EFFECT
+anticholinergic drugs	antihistamines		EFFECT
+anticholinergic drugs	antipsychotic agents		EFFECT
+anticholinergic drugs	phenothiazines		EFFECT
+anticholinergic drugs	benzodiazepines		EFFECT
+anticholinergic drugs	MAO inhibitors		EFFECT
+anticholinergic drugs	narcotic analgesics		EFFECT
+anticholinergic drugs	meperidine		EFFECT
+anticholinergic drugs	nitrates		EFFECT
+anticholinergic drugs	nitrites		EFFECT
+anticholinergic drugs	sympathomimetic agents		EFFECT
+anticholinergic drugs	tricyclic antidepressants		EFFECT
+Anticholinergics	antiglaucoma agents		EFFECT
+Anticholinergic drugs	corticosteroids		EFFECT
+Anticholinergic agents	digoxin		MECHANISM
+Anticholinergic drugs	metoclopramide		EFFECT
+antacids	anticholinergic agents		MECHANISM
+ketoconazole	retapamulin		MECHANISM
